@@ -1,5 +1,7 @@
 # Shrujal Shah - @shrujalshah28
 
+## Hi there 👋
+
 ## Get in touch
 
 - Personal site: <https://shrujalshah.com/>
